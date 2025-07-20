@@ -1,0 +1,4 @@
+Product, Protein, Carbohydrate, Calories, Type, Price
+Wheylabs ChocolateMelt, 67g, 20g, 400cal, Whey, 1899.00
+Wheylabs Vanilla Passionfruit, 50g, 222g, 1142cal, Whey, 1670.00
+Wheylabs CheeseCake, 20g, 40g, 1350cal, Whey, 5000.00
